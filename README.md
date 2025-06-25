@@ -50,7 +50,7 @@ I'm currently focused on developing technical and analytical skills to prepare f
 
 ---
 
-### 🌍 Languages I Speak
+### 🌍 Languages 
 - **English** (fluent)  
 - **German** (native)  
 - **Spanish** (advanced)  
