@@ -1,27 +1,27 @@
-## 👋 Hello there, I'm Richard Stoiberer
+##  Hello there, I'm Richard Stoiberer
 
-🎓 I'm a student-athlete at Rollins College, Florida, majoring in **Computer Science** and **International Business**, with a minor in **Data Analytics** and **Spanish**, set to graduate in **Spring 2026**.  
-🎾 I'm the captain of the **Rollins Men's Tennis** Team and compete in the Sunshine State Conference.  
-🏡 I’m based in **Salzburg, Austria** when I’m not on campus in Florida.
+ I'm a student-athlete at Rollins College, Florida, majoring in **Computer Science** and **International Business**, with a minor in **Data Analytics** and **Spanish**, set to graduate in **Spring 2026**.  
+ I'm the captain of the **Rollins Men's Tennis** Team and compete in the Sunshine State Conference.  
+ I’m based in **Salzburg, Austria** when I’m not on campus in Florida.
 
 I'm passionate about using data and algorithms to solve real-world problems at the intersection of technology and business.  
 I'm currently focused on developing technical and analytical skills to prepare for a career in tech or graduate study in **Data Science**.
 
 ---
 
-### 🔭 I'm currently seeking:
+###  I'm currently seeking:
 - Internship opportunities in **Data Analytics** or **Data Science**.
 - Research experience or academic opportunities in preparation for **Graduate School** in Data Science
 
 ---
 
-### 💻 Languages & Tools:
+###  Languages & Tools:
 - **Languages:** Python, Java, C, R  
 - **Tools & Libraries:** Excel, NumPy, Matplotlib
 
 ---
 
-### 📚 Selection of the CS Coursework at Rollins College
+###  Selection of the CS Coursework at Rollins College
 
 #### **Data Structures and Algorithms**
 - Implemented abstract data types using linked lists, arrays, stacks, queues, and trees
@@ -50,7 +50,7 @@ I'm currently focused on developing technical and analytical skills to prepare f
 
 ---
 
-### 🌍 Languages 
+###  Languages 
 - **English** (fluent)  
 - **German** (native)  
 - **Spanish** (advanced)  
@@ -58,15 +58,15 @@ I'm currently focused on developing technical and analytical skills to prepare f
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
-📄 [View my resume](https://github.com/user-attachments/files/20352920/StoibererRichardCVMay2.pdf)
+ [View my resume](https://github.com/user-attachments/files/20352920/StoibererRichardCVMay2.pdf)
 
-🔗 [Connect on LinkedIn](https://www.linkedin.com/in/richardstoiberer/)
+ [Connect on LinkedIn](https://www.linkedin.com/in/richardstoiberer/)
 
 ---
 
-### 🕹️ Outside of Tech
+###  Outside of Tech
 When I’m not studying or playing tennis, I enjoy:
 - Playing **padel**, **golf**, and **video games**
 - Exploring trends in **sports analytics** and technology in athletics
