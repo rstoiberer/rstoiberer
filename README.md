@@ -2,7 +2,7 @@
 
  I'm a recent graduate of **Rollins College**, Florida, where I majored in **Computer Science** and **International Business**, with a minor in Data Analytics and Spanish.
 
-I was captain of the **Rollins Men's Tennis** Team and a **2x NCAA All-American**.
+I was captain of the **Rollins Men's Tennis** Team and am a **2x NCAA All-American**.
 
 I'm passionate about using data and algorithms to solve real-world problems at the intersection of technology and business, with a particular interest in Business Intelligence and Data Science.
 
