@@ -34,7 +34,8 @@ I will be pursuing a master's degree in Data Science in the near future.
 
 ###  Connect with Me
 
- [Connect on LinkedIn](https://www.linkedin.com/in/richardstoiberer/)
+ [Connect on LinkedIn](https://www.linkedin.com/in/richardstoiberer/)  
+ [Check out my resume](https://github.com/rstoiberer/resume)
 
 ---
 
