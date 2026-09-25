@@ -1,4 +1,4 @@
-##  Hello there, I'm Richard Stoiberer
+##  Hello there, I'm Richard Stoiberer 🎾
 
 I'm currently pursuing an MSc in Data Science at The London School of Economics and Political Science (LSE).
 
