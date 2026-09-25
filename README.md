@@ -1,19 +1,13 @@
 ##  Hello there, I'm Richard Stoiberer
 
- I'm a recent graduate of **Rollins College**, Florida, where I majored in **Computer Science** and **International Business**, with a minor in Data Analytics and Spanish.
+I'm currently pursuing an MSc in Data Science at The London School of Economics and Political Science (LSE).
 
-I was captain of the **Rollins Men's Tennis** Team and am a **2x NCAA All-American**.
+I graduated from Rollins College in Florida, where I majored in Computer Science and International Business, with minors in Data Analytics and Spanish.
 
-I'm passionate about using data and algorithms to solve real-world problems at the intersection of technology and business, with a particular interest in Business Intelligence and Data Science.
+I was captain of the Rollins Men's Tennis Team and am a 2x NCAA All-American.
 
-I will be pursuing a master's degree in Data Science in the near future.
+I'm passionate about using data, statistics, and algorithms to solve real-world problems at the intersection of technology and business, with particular interests in Data Science, Machine Learning, and Business Intelligence.
 
----
-
-###  I'm currently seeking:
-* **Internship opportunities** in Data Analytics or Data Science.
-* **Research experience or academic opportunities** in preparation for Graduate School in Data Science
-* **Projects** to contribute to or collaborate on in Data Science, Business Intelligence, or related fields
 
 ---
 
